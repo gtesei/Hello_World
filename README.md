@@ -88,9 +88,10 @@ deploy:
 
 ## Useful links  
 
-* [Ruby Installer for Windows](https://rubyinstaller.org/downloads/)
-* To install Travis 
-```ruby
+[Ruby Installer for Windows](https://rubyinstaller.org/downloads/)
+
+__To install Travis__ 
+```ruby 
 gem install travis
 ```
 
