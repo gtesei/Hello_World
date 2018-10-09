@@ -43,3 +43,8 @@ deploy:
   on:
     branch: master
 ```
+
+
+## Howto Encrypt Password of Docker Hub on .travis.yml 
+
+![Howto Encrypt Password](./img/pwd_encrypt.PNG)
