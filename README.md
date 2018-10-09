@@ -47,4 +47,4 @@ deploy:
 
 ## How to encrypt password of Docker Hub on .travis.yml 
 
-![Howto Encrypt Password](./img/pwd_encrypt.PNG)
+![Howto Encrypt Password](./img/pwd_enc.PNG)
