@@ -94,4 +94,7 @@ __To install Travis__
 ```ruby 
 gem install travis
 ```
+## Credits 
+
+[Coding Tips: Patterns for Continuous Integration with Docker on Travis CI](https://medium.com/mobileforgood/coding-tips-patterns-for-continuous-integration-with-docker-on-travis-ci-9cedb8348a62)
 
