@@ -1,4 +1,4 @@
-# # Patterns for Continuous Integration with Docker using Travis CI 1 
+# Patterns for Continuous Integration with Docker using Travis CI 1 
 
 [![Build Status](https://api.travis-ci.org/gtesei/Patterns_for_Continuous_Integration_Docker_Travis_CI_1.svg?branch=master)](https://travis-ci.org/gtesei/Patterns_for_Continuous_Integration_Docker_Travis_CI_1)
 
