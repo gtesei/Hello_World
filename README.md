@@ -2,6 +2,8 @@
 
 __Full story:__ [Patterns of Continuous Integration for Data Science Python Projects](https://medium.com/@gtesei/the-ci-arsenal-that-any-open-source-machine-learning-python-project-should-consider-e34759dd66c4)
 
+__Full story:__ [Patterns of Continuous Integration for Data Science Python Projects](https://medium.com/@gtesei/the-ci-arsenal-that-any-open-source-machine-learning-python-project-should-consider-e34759dd66c4)
+
 [![Build Status](https://api.travis-ci.org/gtesei/Patterns_for_Continuous_Integration_Docker_Travis_CI_1.svg?branch=master)](https://travis-ci.org/gtesei/Patterns_for_Continuous_Integration_Docker_Travis_CI_1)
 
 ![Conceptual Schema](./img/part_1.png)
@@ -82,4 +84,6 @@ gem install travis
 [Continuous Integration. CircleCI vs Travis CI vs Jenkins](https://hackernoon.com/continuous-integration-circleci-vs-travis-ci-vs-jenkins-41a1c2bd95f5)
 
 [Continuous Integration with Jenkins and Docker](https://code-maze.com/ci-jenkins-docker/) 
+
++/
 
